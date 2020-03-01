@@ -1,0 +1,23 @@
+{
+  "name": "gatsby-plugin-userbase",
+  "version": "1.0.1",
+  "description": "Gatsby plugin for userbase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nick DeJesus @dayhaysoos",
+  "license": "MIT",
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+    "userbase"
+  ],
+  "peerDependencies": {
+    "gatsby": ">=1"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "userbase-js": "^1.0.0"
+  }
+}
